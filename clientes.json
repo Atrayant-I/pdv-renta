@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generado": "2026-08-08T08:40:01.932Z",
+  "generado": "2026-08-08T08:46:44.990Z",
   "clientes": [
     {
-      "id": "cli-msk2edgcv6f9",
-      "hasta": "2026-11-08",
-      "estado": "activa",
+      "id": "cli-msk4qqk908ie",
+      "hasta": "2026-09-08",
+      "estado": "bloqueada",
       "creada": "2026-08-08",
-      "firma": "bcd1f45234655692f7c0b5df18a75b012332cd7441fff3da478dbf8c9f02e2b2"
+      "firma": "c7ac1e39f8ebb72f6659f0935b0b73bfa32b92a8039fd38e193e22bd193a390a"
     }
   ]
 }
