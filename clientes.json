@@ -1,13 +1,5 @@
 {
   "version": 1,
-  "generado": "2026-08-08T08:11:21.376Z",
-  "clientes": [
-    {
-      "id": "cli-msk3h7z00du2",
-      "hasta": "2026-09-08",
-      "estado": "bloqueada",
-      "creada": "2026-08-08",
-      "firma": "4be13c5396e4bd69332abdace189e4b264e33bf641e80f2a3eb3ae1937531b7c"
-    }
-  ]
+  "generado": "2026-08-08T08:11:27.969Z",
+  "clientes": []
 }
